@@ -18,7 +18,7 @@
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/improgo-josh/Flicks/blob/master/Flicks_Assignment_2.gif" width=250><br>
 
 ### Notes
 
